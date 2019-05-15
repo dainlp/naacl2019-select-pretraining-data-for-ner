@@ -1,0 +1,83 @@
+SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .
+2,2 LOC|7,7 PER
+
+Nadim Ladki
+0,1 PER
+
+AL-AIN , United Arab Emirates 1996-12-06
+0,0 LOC|2,4 LOC
+
+Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .
+0,0 LOC|6,7 MISC|15,15 LOC
+
+But China saw their luck desert them in the second match of the group , crashing to a surprise 2-0 defeat to newcomers Uzbekistan .
+1,1 LOC|23,23 LOC
+
+China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .
+0,0 LOC|16,16 MISC|18,19 PER|34,34 MISC
+
+Oleg Shatskiku made sure of the win in injury time , hitting an unstoppable left foot shot from just outside the area .
+0,1 PER
+
+The former Soviet republic was playing in an Asian Cup finals tie for the first time .
+2,2 MISC|8,9 MISC
+
+Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .
+3,4 MISC|10,10 LOC
+
+Two goals from defensive errors in the last six minutes allowed Japan to come from behind and collect all three points from their opening meeting against Syria .
+11,11 LOC|26,26 LOC
+
+Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .
+0,1 PER|14,15 PER|19,19 MISC|23,24 PER
+
+It was the second costly blunder by Syria in four minutes .
+7,7 LOC
+
+Defender Hassan Abbas rose to intercept a long ball into the area in the 84th minute but only managed to divert it into the top corner of Bitar 's goal .
+1,2 PER|27,27 PER
+
+Nader Jokhadar had given Syria the lead with a well-struck header in the seventh minute .
+0,1 PER|4,4 LOC
+
+Japan then laid siege to the Syrian penalty area for most of the game but rarely breached the Syrian defence .
+0,0 LOC|6,6 MISC|18,18 MISC
+
+Bitar pulled off fine saves whenever they did .
+0,0 PER
+
+Japan coach Shu Kamo said : ' ' The Syrian own goal proved lucky for us .
+0,0 LOC|2,3 PER|9,9 MISC
+
+The Syrians scored early and then played defensively and adopted long balls which made it hard for us . '
+1,1 MISC
+
+'
+
+
+Japan , co-hosts of the World Cup in 2002 and ranked 20th in the world by FIFA , are favourites to regain their title here .
+0,0 LOC|5,6 MISC|16,16 ORG
+
+Hosts UAE play Kuwait and South Korea take on Indonesia on Saturday in Group A matches .
+1,1 LOC|3,3 LOC|5,6 LOC|9,9 LOC
+
+All four teams are level with one point each from one game .
+
+
+RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR .
+0,1 ORG|3,3 PER|6,6 LOC
+
+ROME 1996-12-06
+0,0 LOC
+
+Italy recalled Marcello Cuttitta
+0,0 LOC|2,3 PER
+
+on Friday for their friendly against Scotland at Murrayfield more than a year after the 30-year-old wing announced he was retiring following differences over selection .
+6,6 LOC|8,8 LOC
+
+Cuttitta , who trainer George Coste said was certain to play on Saturday week , was named in a 21-man squad lacking only two of the team beaten 54-21 by England at Twickenham last month .
+0,0 PER|4,5 PER|30,30 LOC|32,32 LOC
+
+Stefano Bordon is out through illness and Coste said he had dropped back row Corrado Covi , who had been recalled for the England game after five years out of the national team .
+0,1 PER|7,7 PER|14,15 PER|23,23 LOC

@@ -12,7 +12,7 @@ from utils.instance import MetadataField, TextField, SequenceLabelField, Instanc
 from utils.metrics import compute_f1
 from utils.ner import to_bioes
 from utils.train import create_output_dir, set_random_seed, train, final_evaluate, generate_predictions
-from utils.token import Token
+from utils.tooken import Token
 from utils.token_indexer import SingleIdTokenIndexer, TokenCharactersIndexer, ELMoTokenCharactersIndexer
 from utils.vocab import Vocabulary
 
@@ -85,11 +85,11 @@ if __name__ == "__main__":
     create_output_dir(args["output_dir"])
 
     dataset_reader = DatasetReader(args)
-    train_data = dataset_reader.read("../../data/%s/train.txt" % args["dataset"])
+    train_data = dataset_reader.read("data/%s/train.txt" % args["dataset"])
     print_out("Load %d instances from train set." % (len(train_data)))
-    dev_data = dataset_reader.read("../../data/%s/dev.txt" % args["dataset"])
+    dev_data = dataset_reader.read("data/%s/dev.txt" % args["dataset"])
     print_out("Load %d instances from dev set." % (len(dev_data)))
-    test_data = dataset_reader.read("../../data/%s/test.txt" % args["dataset"])
+    test_data = dataset_reader.read("data/%s/test.txt" % args["dataset"])
     print_out("Load %d instances from test set." % (len(test_data)))
 
     datasets = {"train": train_data, "validation": dev_data, "test": test_data}
